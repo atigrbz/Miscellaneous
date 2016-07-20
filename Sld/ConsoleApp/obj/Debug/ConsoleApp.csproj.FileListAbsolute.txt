@@ -1,1 +1,10 @@
 C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\NoSolid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\Solid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\NoSolid.pdb
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\bin\Debug\Solid.pdb
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\ConsoleApp\obj\Debug\ConsoleApp.pdb

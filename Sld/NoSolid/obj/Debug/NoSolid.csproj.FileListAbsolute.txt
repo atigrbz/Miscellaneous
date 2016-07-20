@@ -1,0 +1,4 @@
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\NoSolid\bin\Debug\NoSolid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\NoSolid\bin\Debug\NoSolid.pdb
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\NoSolid\obj\Debug\NoSolid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\NoSolid\obj\Debug\NoSolid.pdb

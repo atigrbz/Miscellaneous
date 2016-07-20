@@ -1,0 +1,5 @@
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\Solid\bin\Debug\Solid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\Solid\bin\Debug\Solid.pdb
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\Solid\obj\Debug\Solid.csprojResolveAssemblyReference.cache
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\Solid\obj\Debug\Solid.dll
+C:\Users\atilla.gurbuz\Source\Repos\Miscellaneous\Sld\Solid\obj\Debug\Solid.pdb

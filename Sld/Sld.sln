@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{EE5556BC-4A9C-4B51-AD6B-6A550462979D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid", "Solid\Solid.csproj", "{607C61FC-34A2-4F08-9560-06E82FF86CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSolid", "NoSolid\NoSolid.csproj", "{F022BCAD-D528-4580-B136-8935B12CEC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EE5556BC-4A9C-4B51-AD6B-6A550462979D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5556BC-4A9C-4B51-AD6B-6A550462979D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5556BC-4A9C-4B51-AD6B-6A550462979D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607C61FC-34A2-4F08-9560-06E82FF86CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607C61FC-34A2-4F08-9560-06E82FF86CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607C61FC-34A2-4F08-9560-06E82FF86CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607C61FC-34A2-4F08-9560-06E82FF86CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F022BCAD-D528-4580-B136-8935B12CEC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F022BCAD-D528-4580-B136-8935B12CEC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F022BCAD-D528-4580-B136-8935B12CEC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F022BCAD-D528-4580-B136-8935B12CEC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
